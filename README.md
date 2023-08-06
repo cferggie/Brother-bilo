@@ -1,7 +1,7 @@
-- 👋 Hi, I'm Christopher Ferguson, a Senior Economics Student at JMU graduating in May 2023. 
-- 👀 I’m interested in Machine Learning and its applications to Finance, Science, and Soccer
+I am sorry you have to read this
 
-Currently training myself in neural networks through Andrej Karpathy's youtube lectures. Will be exponentially more active once I graduate May 2023 and I can focus on the machine learning path. 
+- Currently working on reinforcement learning from human feedback to give LLM domain specific expertise via textbooks (making repo soon)
+- On the side I am working on increasing my frontend skills to build my website 
 
 
 
