@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">I'm interested in the uses of machine learning in time-series forecasting, politics, and sports</h3>
-<h4 align="center">*Im currently taking 2 classes for ML so if I'm not committing im in class or studying</h4>
+<h4 align="center">*Im currently taking 2 classes for ML and have a partime job so if Im not committing then assume Im doing these things</h4>
 
 - 🔭 I’m currently working on [Forecasting Website](https://github.com/Brother-bilo/Forecasting-Website)
 
